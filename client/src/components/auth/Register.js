@@ -28,7 +28,6 @@ export const Register = ({ setAlert, register, isAuthenticated }) => {
   };
 
   if (isAuthenticated) {
-    console.log('test');
     return <Redirect to='/dashboard/' />;
   }
 
