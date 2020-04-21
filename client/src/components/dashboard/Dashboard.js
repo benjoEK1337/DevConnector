@@ -2,7 +2,7 @@ import React, { useEffect, Fragment } from 'react';
 import { Link } from 'react-router-dom';
 import propTypes from 'prop-types';
 import { connect } from 'react-redux';
-import Spinner from '../layout/Spiner';
+import Spinner from '../layout/Spinner';
 import DashboardActions from './DashboardActions';
 import Experience from './Experience';
 import Education from './Education';
