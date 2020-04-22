@@ -1,7 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://benjo123:benjo123@devconnector-xwa47.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecretkeybenjo",
-    "githubClientId": "cecde11faa143498fc78",
-    "githubSecret": "55fc0247099cd156cb1c0dff9000f142e5da3d45"
-  }
-  
